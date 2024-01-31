@@ -1,6 +1,8 @@
 # Mr Kapptie's Programming Portfolio 2024
 
 ## Tech Certifications
+* Computer Programming 1 USOE State Certification
+* ECS USOE State Certification
 
 ## Group Project
 
